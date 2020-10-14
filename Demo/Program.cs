@@ -32,7 +32,7 @@ namespace Test1
                     }
 
                 }
-                if (isPrime == true)
+                if (isPrime1111 == true)
                 {
                     Console.WriteLine("It is Prime : {0} ", intArray[i]);
                 }
